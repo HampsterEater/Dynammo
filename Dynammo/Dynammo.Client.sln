@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynammo.Client", "Dynammo.Client\Dynammo.Client.csproj", "{5DCD541E-D5DB-4C01-B2A9-5748EB9EB0CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynammo.Networking", "Dynammo.Networking\Dynammo.Networking.csproj", "{54489662-FB1C-4C13-86B0-A0DB0A6CCA55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynammo.Arbitrator", "Dynammo.Arbitrator\Dynammo.Arbitrator.csproj", "{42219D5D-B7EA-41D8-A0D8-679C936FF88C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynammo.Common", "Dynammo.Common\Dynammo.Common.csproj", "{0A695FA2-D2DC-4A01-BCF5-F2D2C9C5B0B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5BAD0678-B7C7-407D-BEC1-557D7F1E6DE1}"
+	ProjectSection(SolutionItems) = preProject
+		TODO.txt = TODO.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynammo.Simulator", "Dynammo.Simulator\Dynammo.Simulator.csproj", "{FCCB26DE-B8EA-4EAA-AC52-A29A13D55BDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DCD541E-D5DB-4C01-B2A9-5748EB9EB0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DCD541E-D5DB-4C01-B2A9-5748EB9EB0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DCD541E-D5DB-4C01-B2A9-5748EB9EB0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DCD541E-D5DB-4C01-B2A9-5748EB9EB0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54489662-FB1C-4C13-86B0-A0DB0A6CCA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54489662-FB1C-4C13-86B0-A0DB0A6CCA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54489662-FB1C-4C13-86B0-A0DB0A6CCA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54489662-FB1C-4C13-86B0-A0DB0A6CCA55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42219D5D-B7EA-41D8-A0D8-679C936FF88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42219D5D-B7EA-41D8-A0D8-679C936FF88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42219D5D-B7EA-41D8-A0D8-679C936FF88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42219D5D-B7EA-41D8-A0D8-679C936FF88C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A695FA2-D2DC-4A01-BCF5-F2D2C9C5B0B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A695FA2-D2DC-4A01-BCF5-F2D2C9C5B0B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A695FA2-D2DC-4A01-BCF5-F2D2C9C5B0B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A695FA2-D2DC-4A01-BCF5-F2D2C9C5B0B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCCB26DE-B8EA-4EAA-AC52-A29A13D55BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCB26DE-B8EA-4EAA-AC52-A29A13D55BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCB26DE-B8EA-4EAA-AC52-A29A13D55BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCB26DE-B8EA-4EAA-AC52-A29A13D55BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
